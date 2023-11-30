@@ -1,7 +1,7 @@
 ## ES6 Promises
 
 ### Concepts
-- The projects cover the concepts below:
+The projects cover the concepts below:
 - Promises (how, why, and what)
 - How to use the then, resolve, catch methods
 - How to use every method of the Promise object
