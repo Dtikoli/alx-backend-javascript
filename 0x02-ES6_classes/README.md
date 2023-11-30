@@ -1,7 +1,7 @@
 ## ES6 Classes
 
 ### Concepts
-- The projects cover the concepts below:
+The projects cover the concepts below:
 - How to define a Class
 - How to add methods to a class
 - Why and how to add a static method to a class
