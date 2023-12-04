@@ -1,4 +1,3 @@
-/* eslint-disable no-underscore-dangle */
 class HolbertonCourse {
   constructor(name, length, students) {
     this.name = name;

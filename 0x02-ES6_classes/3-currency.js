@@ -1,4 +1,3 @@
-/* eslint-disable no-underscore-dangle */
 class Currency {
   constructor(code, name) {
     this.code = code;
