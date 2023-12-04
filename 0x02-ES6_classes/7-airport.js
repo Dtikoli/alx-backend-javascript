@@ -1,4 +1,3 @@
-/* eslint-disable no-underscore-dangle */
 class Airport {
   constructor(name, code) {
     this._name = name;

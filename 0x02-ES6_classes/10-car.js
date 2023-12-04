@@ -1,4 +1,3 @@
-/* eslint-disable no-underscore-dangle */
 class Car {
   constructor(brand, motor, color) {
     this._brand = brand;

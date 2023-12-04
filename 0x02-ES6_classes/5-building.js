@@ -7,7 +7,6 @@ class Building {
     this._sqft = sqft;
   }
 
-  // sqft
   get sqft() {
     return this._sqft;
   }
