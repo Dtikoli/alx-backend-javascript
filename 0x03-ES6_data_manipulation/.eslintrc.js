@@ -31,7 +31,7 @@ module.exports = {
   overrides:[
     {
       files: ['*.js'],
-      excludedFiles: ['babel.config.js','*main.js'],
+      excludedFiles: ['babel.config.js'],
     }
   ]
 };
